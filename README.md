@@ -26,7 +26,6 @@
 ### Tools
 ![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![NGINX](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![APACHE](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 
 ### Design
@@ -35,5 +34,6 @@
 pixlr.com
 
 ### 3D Rendering
+I don't do 3D
 
-##Others
+## Others
