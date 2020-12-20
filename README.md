@@ -1,11 +1,11 @@
 <h1 align="center">Hello ! I'm Guillaume aka gui_geekmin08 (gui_quad) :stars:</h1>
 
 ## About me :wave:
-- 🔭 I’m currently working on organization GUINNEProject
-- 🌱 I’m currently learning the php
+- 🔭 Je travaille actuellement sur l'organisation GUINNEProject
+- 🌱 J'apprends actuellement le php
 - 💬 Ask me about on twitter and discord (<gυι_gєєкмιи08/>#2008)
-- 📫 How to reach me: https://discord.gg/WwD6fu7
-- ⚡ Fun fact: I'm fan of IT and develop !
+- 📫 Interrogez-moi sur Twitter et Discord (<gυι_gєєкмιи08 /> # 2008)
+- ⚡ Fait amusant: je suis fan de l'informatique et je développe!
 
 ## Programmation
 
@@ -20,20 +20,13 @@
 ### Frameworks
 ![NODEJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
-### Databases
+### Bas de donnée
 ![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+### Outils
 ![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![APACHE](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 
-### Design
-
 ### Graphics
 pixlr.com
-
-### 3D Rendering
-I don't do 3D
-
-## Others
