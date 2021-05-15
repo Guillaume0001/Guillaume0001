@@ -2,9 +2,9 @@
 
 ## About me :wave:
 - 🔭 Je travaille actuellement sur l'organisation GUINNEProject
-- 🌱 J'apprends actuellement le php
-- 💬 Ask me about on twitter and discord (<gυι_gєєкмιи08/>#2008)
-- 📫 Interrogez-moi sur Twitter et Discord (<gυι_gєєкмιи08 /> # 2008)
+- 🌱 J'apprends actuellement l'anglais
+- 💬 Ask me about on twitter and discord (>>Guillaume M<<#0001)
+- 📫 Interrogez-moi sur Twitter et Discord (>>Guillaume M<<#0001)
 - ⚡ Fait amusant: je suis fan de l'informatique et je développe!
 
 ## Programmation
