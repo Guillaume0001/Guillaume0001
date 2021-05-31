@@ -1,11 +1,9 @@
 <h1 align="center">Hello ! I'm Guillaume aka gui_geekmin08 (gui_quad) :stars:</h1>
 
 ## About me :wave:
-- 🔭 Je travaille actuellement sur l'organisation GUINNEProject
-- 🌱 J'apprends actuellement l'anglais
-- 💬 Ask me about on twitter and discord (>>Guillaume M<<#0001)
-- 📫 Interrogez-moi sur Twitter et Discord (>>Guillaume M<<#0001)
-- ⚡ Fait amusant: je suis fan de l'informatique et je développe!
+- 🔭 Je travaille actuellement pour Elatium Network !
+- 🌱 J'apprends actuellement l'anglais et le <b>CSS en profondeur</b>.
+- 💬 Vous pouvez me contacter sur discord (>>Guillaume<<#0001)
 
 ## Programmation
 
