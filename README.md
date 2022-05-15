@@ -1,9 +1,9 @@
-<h1 align="center">Salut je suis Guillaume ! Ou Gui 🌠</h1>
+<h1 align="center">Hello, je suis Guillaume 🌠</h1>
 
 ## À propos de moi :wave:
 - 🔭 Je travaille actuellement pour plusieurs projets.
 - 🌱 J'apprends actuellement l'Anglais.
-- 💬 Vous pouvez me contacter sur discord (Guillaume0001#0001)
+- 💬 Vous pouvez me contacter sur discord (Guillaume0001#0001) ou via mon <a href="https://t.me/Guillaume0001">telegram</a>.
 
 ## Programmation
 
