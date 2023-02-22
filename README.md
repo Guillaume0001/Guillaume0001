@@ -1,11 +1,12 @@
-<h1 align="center">Hello, je suis Guillaume 🌠</h1>
+<h1 align="center">Hi, I'm Guillaume ✨</h1>
 
-## À propos de moi :wave:
-- 🔭 Je travaille actuellement pour plusieurs projets.
-- 🌱 J'apprends actuellement l'Anglais.
-- 💬 Vous pouvez me contacter sur discord (Guillaume0001#0001) ou via mon <a href="https://t.me/Guillaume0001">telegram</a>.
+## About me :wave:
+- 📖 I'm a French student.
+- 🖥 I operate AS203636.(Actually I've a problem with my router, it will come back soon)
+- 📚 I actually learn "how to sleep" 😴.
+- 💬 You can contact me on Discord (Guillaume#2008) or on my <a href="https://t.me/Guillaume0001">telegram</a>.
 
-## Programmation
+## Programation
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -16,10 +17,10 @@
 ### Frameworks
 ![NODEJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
-### Bas de donnée
+### Database
 ![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-### Outils
+### Tools
 ![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![APACHE](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
