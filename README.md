@@ -28,4 +28,4 @@
 ### Graphics
 pixlr.com
 
-![Guillaume's Stats](https://github-readme-stats.vercel.app/api?username=Guillaume0001&show_icons=true)
+![Guillaume's Stats](https://github-readme-stats.vercel.app/api?username=Guillaume0001&show_icons=true&theme=transparent)
