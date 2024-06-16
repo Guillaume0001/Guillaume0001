@@ -2,7 +2,6 @@
 
 ## About me :wave:
 - 📖 I'm a French student.
-- 🖥 I operate AS203636.
 - 📚 I actually learn "how to sleep" 😴.
 - 💬 You can contact me on Discord (guillaume0001) or on my <a href="https://t.me/Guillaume0001">telegram</a>.
 
