@@ -1,2 +1,6 @@
-Basically, a French inactive Developer. Amateur entrepreneur.
-<i>Mes commits sont tellements écartés que même GitHub se demande si je suis encore vivant / My commits are so spread apart that even GitHub wonders if i'm alive.</i>
+# Guillaume's space
+
+Hi, I'm Guillaume, a French inactive developer.
+
+I'm a PHP, Python, C++ developer.
+I was a member of the DFZ, ex-maintainer of the Autonomous System 203626.
