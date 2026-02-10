@@ -44,5 +44,5 @@
 
 ---
 
-> "*If it dosen't ping, it's sleeping... but I never do.*"  
+> "*If it doesn't ping, it's sleeping... but I never do.*"  
 > "*It's always DNS...*"
