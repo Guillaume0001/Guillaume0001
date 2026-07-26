@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Contact Me
-- Email: hi@glmmlt.fr.eu.org
+- Email: hi@mltfr.net
 
 ---
 
